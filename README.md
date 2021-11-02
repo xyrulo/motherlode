@@ -1,4 +1,4 @@
-# motherlode
+# Project Motherlode
 
 The intent of this project, first and foremost, is to provide accessible tools to make learning and understanding in an academic setting easier. 
 
